@@ -1,0 +1,54 @@
+.tbstyle{
+    mso-cellspacing:5px;
+    cellspacing:5px;
+    border: 1px solid;
+    border-color: aquamarine;
+}
+.tdheader{
+    text-align: center;
+    color:black;
+    width: 1000px;
+    font-size: 50px;
+    padding-top: 10px;
+}
+.trheader{
+       height: 100px;
+       vertical-align: top;
+       background-color: steelblue;
+   }
+.tdbody{
+    height: 500px;
+    vertical-align: middle;
+    padding-left: 40%;
+}
+.trbody{
+   padding-left: 40%;
+}
+.trfooter{
+    height: 20px;
+    vertical-align: top;
+    background-color: steelblue;
+}
+.tdchat{
+    height: 500px;
+    vertical-align: top;
+}
+.trChat{
+    padding-left: 5%;
+}
+.lbuser{
+    width: 215px;
+}
+.divchat{
+    width: 500px;
+    text-align: left;
+    height: 300px;
+    border: 1px solid;
+}
+
+.divuser{
+    width: 150px;
+    text-align: left;
+    height: 300px;
+    border: 1px solid;
+}
